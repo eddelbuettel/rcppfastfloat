@@ -1,0 +1,12 @@
+2021-01-30  Dirk Eddelbuettel  <edd@debian.org>
+
+	* inst/include/fast_float/: Upstream fast_float libary
+
+	* src/example.cpp (parseExample): Minimal (adapted) example
+
+	* tests/tinytest.R: Add test caller
+	* inst/tinytest/test_parse.R: Add small testing file
+
+	* .github/workflows/ci.yaml: Add CI using run.sh from r-ci
+
+
