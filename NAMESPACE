@@ -1,0 +1,3 @@
+useDynLib(RcppFastFloat, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
