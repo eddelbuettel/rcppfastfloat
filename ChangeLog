@@ -1,3 +1,11 @@
+2021-01-31  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Release 0.0.1
+
+	* inst/benchmark/: Renamed from inst/demo
+
+	* inst/NEWS.Rd: Added
+
 2021-01-30  Dirk Eddelbuettel  <edd@debian.org>
 
 	* inst/include/fast_float/: Upstream fast_float libary
