@@ -9,4 +9,8 @@
 
 	* .github/workflows/ci.yaml: Add CI using run.sh from r-ci
 
+	* inst/demo/comparison.R: Timing benchmark and comparison
+
+	* README.md: Added
+
 
