@@ -25,7 +25,7 @@ exampleParse()
 ```
 
 with default arguments or supply some.  We also include a [timing comparison in file
-[demo/comparison.R](inst/demo/comparison.R) you can run just calling it from `Rscript`. On our
+[benchmark/comparison.R](inst/benchmark/comparison.R) you can run just calling it from `Rscript`. On our
 machine `fast_float` comes out as just over 3 times as fast as the next best alternative (and this
 counts the function calls and all, so pure parsing speed is still a little bettter).
 
