@@ -1,3 +1,7 @@
+2021-02-05  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: New CRAN, downloads, depends badges with package on CRAN
+
 2021-02-03  Brendan Knapp  <brendan.g.knapp@gmail.com>
 
 	* src/as_double2.cpp: Faster as.double() replacement via fast_float
