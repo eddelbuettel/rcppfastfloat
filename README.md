@@ -67,7 +67,9 @@ an issue ticket.  See the file
 
 ### Author
 
-For the R package, [Dirk Eddelbuettel](https://github.com/eddelbuettel).
+For the R package, [Dirk Eddelbuettel](https://github.com/eddelbuettel) and [Brendan
+Knapp](https://github.com/knapply).
+
 
 For everything pertaining to `fast_float`, [Daniel Lemire](https://lemire.me/en/) (and
 [contributors](https://github.com/fastfloat/fast_float/graphs/contributors)).
