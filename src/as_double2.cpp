@@ -14,13 +14,14 @@ bool is_only_whitespace(const char *s) noexcept {
   return true;
 }
 
-//' Ultra efficient string-to-`double` Conversion
+//' Ultra efficient string-to-\code{double} Conversion
 //'
-//' For `character` `vector`s,`as.double2()` is a drop-in replacement for `base::as.double()`.
+//' For \code{character} \code{vector}s, \code{as.double2()} is a
+//' drop-in replacement for \code{base::as.double()}.
 //'
-//' @param x A vector of type `character`.
+//' @param x A vector of type \code{character}.
 //'
-//' @seealso [base::as.double()]
+//' @seealso \code{\link[base::as.double]{base::as.double()}}
 //'
 //' @examples
 //' set.seed(8675309)
@@ -44,7 +45,6 @@ bool is_only_whitespace(const char *s) noexcept {
 //'
 //' all.equal(comparison[, "as.double()"], comparison[, "as.double2()"])
 //'
-//' @export
 // [[Rcpp::export(as.double2)]]
 Rcpp::DoubleVector
 as_dbl(const Rcpp::CharacterVector x) {

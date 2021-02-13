@@ -10,12 +10,13 @@ as.double2(x)
 \item{x}{A vector of type \code{character}.}
 }
 \description{
-For \code{character} \code{vector}s,\code{as.double2()} is a drop-in replacement for \code{base::as.double()}.
+For \code{character} \code{vector}s, \code{as.double2()} is a
+drop-in replacement for \code{base::as.double()}.
 }
 \examples{
 set.seed(8675309)
 input <- sample(c(
-  paste0(" \r\n\t\f\\v", c(0.0, sqrt(seq(1, 10))), " \r\n\t\f\\v"),
+  paste0(" \\r\\n\\t\\f\\v", c(0.0, sqrt(seq(1, 10))), " \\r\\n\\t\\f\\v"),
   c("NaN", "-NaN", "nan", "-nan",
     "Inf", "-Inf", "inf", "-inf", "infinity", "-infinity",
     NA_character_,
@@ -36,5 +37,5 @@ all.equal(comparison[, "as.double()"], comparison[, "as.double2()"])
 
 }
 \seealso{
-\code{\link[base:double]{base::as.double()}}
+\code{\link[base::as.double]{base::as.double()}}
 }

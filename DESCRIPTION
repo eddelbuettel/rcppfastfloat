@@ -17,6 +17,5 @@ LinkingTo: Rcpp
 Suggests: tinytest
 URL: https://github.com/eddelbuettel/rcppfastfloat/
 BugReports: https://github.com/eddelbuettel/rcppfastfloat/issues
-RoxygenNote: 7.1.1
-Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
 Encoding: UTF-8
