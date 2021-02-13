@@ -1,5 +1,7 @@
 2021-02-13  Dirk Eddelbuettel  <edd@debian.org>
 
+	* DESCRIPTION (Version, Date): Release 0.0.2
+
 	* inst/benchmark/comparison2.R: Added simple benchmark demo based on
 	existing manual page example
 
