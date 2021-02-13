@@ -1,5 +1,8 @@
 2021-02-13  Dirk Eddelbuettel  <edd@debian.org>
 
+	* inst/benchmark/comparison2.R: Added simple benchmark demo based on
+	existing manual page example
+
 	* src/as_double2.cpp: Simplified roxygen2 use to allow older version
 	* man/as.double2.cpp: Regenerated
 	* DESCRIPTION: Lowered roxygen2 version, removed list option
