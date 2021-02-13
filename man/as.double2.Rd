@@ -37,5 +37,5 @@ all.equal(comparison[, "as.double()"], comparison[, "as.double2()"])
 
 }
 \seealso{
-\code{\link[base::as.double]{base::as.double()}}
+\code{as.double()}
 }

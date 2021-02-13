@@ -21,7 +21,7 @@ bool is_only_whitespace(const char *s) noexcept {
 //'
 //' @param x A vector of type \code{character}.
 //'
-//' @seealso \code{\link[base::as.double]{base::as.double()}}
+//' @seealso \code{as.double()}
 //'
 //' @examples
 //' set.seed(8675309)
