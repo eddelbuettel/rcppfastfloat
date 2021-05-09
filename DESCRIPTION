@@ -15,7 +15,7 @@ License: GPL (>= 2)
 Imports: Rcpp
 LinkingTo: Rcpp
 Suggests: tinytest
-URL: https://github.com/eddelbuettel/rcppfastfloat/
+URL: https://github.com/eddelbuettel/rcppfastfloat/, https://dirk.eddelbuettel.com/code/rcpp.fastfloat.html
 BugReports: https://github.com/eddelbuettel/rcppfastfloat/issues
 RoxygenNote: 6.0.1
 Encoding: UTF-8
