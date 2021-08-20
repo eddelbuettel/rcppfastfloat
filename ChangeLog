@@ -1,3 +1,7 @@
+2021-08-20  Dirk Eddelbuettel  <edd@debian.org>
+
+	* inst/include/fast_float/float_common.h: Do not include endian.h on SunOS
+
 2021-05-09  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (URL): Add package page to URL field

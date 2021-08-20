@@ -32,7 +32,7 @@
 #else
 #if defined(__APPLE__) || defined(__FreeBSD__)
 #include <machine/endian.h>
-#else
+#elif !defined(__sun)
 #include <endian.h>
 #endif
 #
