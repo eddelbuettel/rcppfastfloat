@@ -1,3 +1,9 @@
+2021-08-21  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Release 0.0.3
+
+	* src/Makevars (CXX_STD): Enable C++11 as a default standard
+
 2021-08-20  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version, Date): Roll minor version and date
