@@ -1,6 +1,8 @@
-#define STRICT_R_HEADERS
-#include <Rcpp.h>
+#include <Rcpp/Lightest>
 
+// these two defines opt-into more extensive parsing support
+#define FASTFLOAT_ALLOWS_LEADING_PLUS 1
+#define FASTFLOAT_SKIP_WHITE_SPACE 1
 #include "fast_float/fast_float.h"
 
 /* essentially isBlankString(), but returns bool instead of Rboolean */

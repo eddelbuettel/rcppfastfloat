@@ -1,3 +1,10 @@
+2023-01-19  Dirk Eddelbuettel  <edd@debian.org>
+
+	* inst/include/fast_float/*: Updated to upstream release 3.9.0
+
+	* src/as_double2.cpp: Add two defines to enable more extended parsing
+	under fast_float 3.9.0
+
 2022-11-14  Dirk Eddelbuettel  <edd@debian.org>
 
 	* .github/workflows/ci.yaml (jobs): Update to actions/checkout@v3
