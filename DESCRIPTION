@@ -1,8 +1,8 @@
 Package: RcppFastFloat
 Type: Package
 Title: 'Rcpp' Bindings for the 'fast_float' Header-Only Library for Number Parsing
-Version: 0.0.3
-Date: 2021-08-21
+Version: 0.0.4
+Date: 2023-01-20
 Author: Dirk Eddelbuettel, Brendan Knapp
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Description: Converting ascii text into (floating-point) numeric values is a
