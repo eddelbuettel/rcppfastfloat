@@ -4,7 +4,7 @@
 [![CI](https://github.com/eddelbuettel/rcppfastfloat/workflows/ci/badge.svg)](https://github.com/eddelbuettel/rcppfastfloat/actions?query=workflow%3Aci)
 [![License](https://eddelbuettel.github.io/badges/GPL2+.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![CRAN](https://www.r-pkg.org/badges/version/RcppFastFloat)](https://cran.r-project.org/package=RcppFastFloat)
-[![Dependencies](https://tinyverse.netlify.com/badge/RcppFastFloat)](https://cran.r-project.org/package=RcppFastFloat)
+[![Dependencies](https://tinyverse.netlify.app/badge/RcppFastFloat)](https://cran.r-project.org/package=RcppFastFloat)
 [![Downloads](https://cranlogs.r-pkg.org/badges/RcppFastFloat?color=brightgreen)](https://www.r-pkg.org/pkg/RcppFastFloat)
 [![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/rcppfastfloat)](https://github.com/eddelbuettel/rcppfastfloat)
 
