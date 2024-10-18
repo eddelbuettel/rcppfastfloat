@@ -1,3 +1,7 @@
+2024-10-17  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Authors@R): Added
+
 2024-07-06  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Description): Use <doi:/> for arXiv link
