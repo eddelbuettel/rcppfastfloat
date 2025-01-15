@@ -120,10 +120,10 @@ fastfloat_really_inline bool rounds_to_nearest() noexcept {
 //  https://stackoverflow.com/questions/46079446/is-there-a-warning-for-floating-point-equality-checking-in-visual-studio-2013
 #elif defined(__clang__)
 #pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wfloat-equal"
+  //#pragma clang diagnostic ignored "-Wfloat-equal"
 #elif defined(__GNUC__)
 #pragma GCC diagnostic push
-#pragma GCC diagnostic ignored "-Wfloat-equal"
+  //#pragma GCC diagnostic ignored "-Wfloat-equal"
 #endif
   return (fmini + 1.0f == 1.0f - fmini);
 #ifdef FASTFLOAT_VISUAL_STUDIO
