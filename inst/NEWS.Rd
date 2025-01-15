@@ -3,6 +3,15 @@
 \newcommand{\ghpr}{\href{https://github.com/eddelbuettel/rcppfastfloat/pull/#1}{##1}}
 \newcommand{\ghit}{\href{https://github.com/eddelbuettel/rcppfastfloat/issues/#1}{##1}}
 
+\section{Changes in version 0.0.5 (2025-01-15)}{
+  \itemize{
+    \item No longer set a compilation standard
+    \item Updates to continuous integration, badges, URLs, DESCRIPTION
+    \item Update to \pkg{fast_float} 7.0.0
+    \item Per CRAN Policy comment-out compiler 'diagnostic ignore' instances 
+  }
+}
+
 \section{Changes in version 0.0.4 (2023-01-20)}{
   \itemize{
     \item Update to \pkg{fast_float} 3.9.0
