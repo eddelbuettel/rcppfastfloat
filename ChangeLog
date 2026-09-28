@@ -1,3 +1,14 @@
+2026-09-28  Daniel Lemire  <daniel@lemire.me>
+
+	* inst/include/fast_float/*: Release 8.3.0
+
+	* inst/include/fast_float/parse_number.h: Suppress two '#pragma
+	(clang|gcc) diagnostic ignored' per CRAN Policy, and a third for
+	-Wc++20-extensions
+
+	* inst/include/fast_float/float_common.h: Remove _Pragma ignoring
+	-Wcast-align per CRAN Policy; only use [[unlikely]] under C++20
+
 2026-01-18  Dirk Eddelbuettel  <edd@debian.org>
 
 	* .github/workflows/ci.yaml: Switch to actions/checkout@v6
