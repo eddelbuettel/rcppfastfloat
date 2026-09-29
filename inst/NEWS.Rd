@@ -3,6 +3,15 @@
 \newcommand{\ghpr}{\href{https://github.com/eddelbuettel/rcppfastfloat/pull/#1}{##1}}
 \newcommand{\ghit}{\href{https://github.com/eddelbuettel/rcppfastfloat/issues/#1}{##1}}
 
+\section{Changes in version 0.0.6 (2026-09-29)}{
+  \itemize{
+    \item Update to upstream release 8.3.0 (Daniel Lemire in \ghpr{6})
+    \item Standard package maintenace adding README badge, updating URL,
+    updating continuous integration, and adding an aspell dictionary
+    \item Completed help page for \code{as_double} example with @return tag
+  }
+}
+
 \section{Changes in version 0.0.5 (2025-01-15)}{
   \itemize{
     \item No longer set a compilation standard

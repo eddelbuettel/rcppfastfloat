@@ -9,6 +9,9 @@ as.double2(x)
 \arguments{
 \item{x}{A vector of type \code{character}.}
 }
+\value{
+A vector of type \code{double}
+}
 \description{
 For \code{character} \code{vector}s, \code{as.double2()} is a
 drop-in replacement for \code{base::as.double()}.

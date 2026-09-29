@@ -23,6 +23,8 @@ bool is_only_whitespace(const char *s) noexcept {
 //'
 //' @param x A vector of type \code{character}.
 //'
+//' @return A vector of type \code{double}
+//'
 //' @seealso \code{as.double()}
 //'
 //' @examples

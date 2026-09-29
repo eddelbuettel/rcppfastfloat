@@ -1,3 +1,12 @@
+2026-09-29  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Use OSI URL for GPL-2, add r-universe badge
+
+	* .github/workflows/ci.yaml: Switch to actions/checkout@v7
+
+	* .aspell/words.rds: Added
+	* .aspell/defaults.R: Idem
+
 2026-09-28  Daniel Lemire  <daniel@lemire.me>
 
 	* inst/include/fast_float/*: Release 8.3.0

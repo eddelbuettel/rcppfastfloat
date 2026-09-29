@@ -8,6 +8,8 @@
 #'
 #' @param x A vector of type \code{character}.
 #'
+#' @return A vector of type \code{double}
+#'
 #' @seealso \code{as.double()}
 #'
 #' @examples
