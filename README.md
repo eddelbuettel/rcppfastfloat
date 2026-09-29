@@ -2,9 +2,10 @@
 ## RcppFastFloat: Rcpp Bindings for the fastfloat C++ Header-Only Library
 
 [![CI](https://github.com/eddelbuettel/rcppfastfloat/workflows/ci/badge.svg)](https://github.com/eddelbuettel/rcppfastfloat/actions?query=workflow%3Aci)
-[![License](https://eddelbuettel.github.io/badges/GPL2+.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://eddelbuettel.github.io/badges/GPL2+.svg)](https://opensource.org/license/gpl-2-0)
 [![CRAN](https://www.r-pkg.org/badges/version/RcppFastFloat)](https://cran.r-project.org/package=RcppFastFloat)
 [![Dependencies](https://tinyverse.netlify.app/badge/RcppFastFloat)](https://cran.r-project.org/package=RcppFastFloat)
+[![r-universe](https://eddelbuettel.r-universe.dev/badges/RcppFastFloat)](https://eddelbuettel.r-universe.dev/RcppFastFloat)
 [![Downloads](https://cranlogs.r-pkg.org/badges/RcppFastFloat?color=brightgreen)](https://www.r-pkg.org/pkg/RcppFastFloat)
 [![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/rcppfastfloat)](https://github.com/eddelbuettel/rcppfastfloat)
 
