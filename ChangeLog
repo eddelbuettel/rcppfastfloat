@@ -1,5 +1,11 @@
 2026-09-29  Dirk Eddelbuettel  <edd@debian.org>
 
+	* DESCRIPTION (Version, Date): Release 0.0.6
+
+	* src/as_double2.cpp: Add a @return tag
+	* R/RcppExports.R: Regenerated
+	* man/as.double2.Rd: Idem
+
 	* README.md: Use OSI URL for GPL-2, add r-universe badge
 
 	* .github/workflows/ci.yaml: Switch to actions/checkout@v7
